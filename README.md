@@ -1,20 +1,22 @@
 👋 Hi, I'm Maab Faisal
 
-Data Analyst
+#Data Analyst
 
 Turning complex data into actionable business decisions.
 
-🔭 Top Projects
+🔭# Top Projects
 
 Suggestion Report – Spare Parts Demand Forecasting & Inventory Optimization
 Sales Analysis (UAE) – Power BI
 Data Analysis Portfolio – Structured Data Projects
+
 💡 Skills & Tools
 
 Data & SQL: Advanced SQL, Data Modeling, KPI Calculations
 Forecasting & Analytics: Demand Forecasting, Inventory Optimization, Trend Analysis
 Visualization & Reporting: Power BI, Excel, Structured Reporting
 Soft Skills: Business Problem Translation, Analytical Thinking, Data Storytelling
+
 🚀 How I Work
 
 Translate business requirements into analytical questions
