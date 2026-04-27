@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Maab Faisal
 
-<!--
-**maab528/maab528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst
 
-Here are some ideas to get you started:
+Turning complex data into actionable business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Top Projects
+
+Suggestion Report – Spare Parts Demand Forecasting & Inventory Optimization
+Sales Analysis (UAE) – Power BI
+Data Analysis Portfolio – Structured Data Projects
+💡 Skills & Tools
+
+Data & SQL: Advanced SQL, Data Modeling, KPI Calculations
+Forecasting & Analytics: Demand Forecasting, Inventory Optimization, Trend Analysis
+Visualization & Reporting: Power BI, Excel, Structured Reporting
+Soft Skills: Business Problem Translation, Analytical Thinking, Data Storytelling
+🚀 How I Work
+
+Translate business requirements into analytical questions
+Build structured data pipelines & optimized queries
+Apply analytical and forecasting models
+Validate insights & provide actionable recommendations
+Communicate results clearly to stakeholders
+📈 Business Impact
+
+Improved demand planning & inventory control
+Reduced overstock and shortages in critical items
+Data-driven insights to support strategic decisions
+(Exact numbers are confidential)
