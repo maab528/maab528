@@ -3,7 +3,7 @@
 ## Data Analyst
 
 Turning complex data into actionable business decisions.
-
+Showcasing my data analysis skills through real-world projects, dashboards, and business insights.
 ## 🔭Top Projects
 
 Suggestion Report – Spare Parts Demand Forecasting & Inventory Optimization
